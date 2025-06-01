@@ -4,7 +4,7 @@
   "properties": {
     "summary": {
       "type": "string",
-      "description": "要約本文（最大7行、箇条書き）"
+      "description": "本文（最大7行、箇条書き）"
     },
     "event_period": {
       "type": "string",
